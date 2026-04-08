@@ -14,4 +14,4 @@ Este es un mensaje hecho desde GitHub!!!
 
 Vamos a actualizar la confi de git para quitar una advertencia
 
-## Estos cambios son nuevos
+## Estos cambios son nuevo desde mi repositorio local
